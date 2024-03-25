@@ -9,5 +9,5 @@ pip install streamlit
 
 2. Open your command prompt/terminal for the particular destination
 ```yaml
-streamlit run app.py </code>
+streamlit run app.py
 ```
